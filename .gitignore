@@ -1,4 +1,3 @@
 out
-*.xml
-*.pb
+.idea
 algorithm.iml
