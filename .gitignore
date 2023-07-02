@@ -1,3 +1,6 @@
 out
 .idea
 algorithm.iml
+bin
+.classpath
+.project
